@@ -7,7 +7,7 @@ var users;
 let awsConfig = {
     "region": "us-east-2",
     "endpoint": "dynamodb.us-east-2.amazonaws.com",
-    "accessKeyId": "AKIAJFAJEK7J6F7Z6G2A", "secretAccessKey" : "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"
+    
 };
 AWS.config.update(awsConfig)
 
